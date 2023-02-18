@@ -1,0 +1,31 @@
+_repo: The-stainless-steel-rat_70034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harrison, Harry
+    aliases:
+    - Dempsey, Henry Maxwell
+    - Harrison, Henry Maxwell
+    birthdate: 1925
+    deathdate: 2012
+    gutenberg_agent_id: '25395'
+    url: http://www.gutenberg.org/2009/agents/25395
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Harrison_%28writer%29
+description: ''
+gutenberg_issued: '2023-02-13'
+identifiers:
+  gutenberg: '70034'
+language: en
+pgterms:marc905: 20221202104016harrison
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStreet & Smith Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The stainless steel rat
+url: http://www.gutenberg.org/ebooks/70034
